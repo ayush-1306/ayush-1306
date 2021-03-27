@@ -9,6 +9,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ayush | LinkedIn" width="22px" src="linkedin.png" />][linkedin]
-[<img align="left" alt="Ayush | Instagram" width="22px" src="Instagram_logo.png"/>][instagram]
-<br />
+[<img align="left" alt="Ayush | LinkedIn" width="22px" src="linkedin.png" />]
+[<img align="left" alt="Ayush | Instagram" width="22px" src="Instagram_logo.png"/>]
