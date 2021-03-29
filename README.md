@@ -7,7 +7,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to eat food.😅🤭
 
-Skills: C / Python / Java / HTML / SQL
+## Skills:
+**C / Python / Java / HTML / SQL**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayush-1306)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayush-sharma-9a23911bb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/ayush13_06?igshid=1l4q32jjg3fxr/)  
 
