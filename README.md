@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to eat food.😅🤭
 
 ## Skills:
-**C
+**C  
 Python
 Java
 HTML
