@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to eat food.😅🤭
 
 ## Skills:
-[<img src='Pictures/c;ogo.png' alt='C' height='30'>]  
+[<img src='Pictures/c.png' alt='C' height='30'>]  
 2. Python  
 3. Java  
 4. HTML  
