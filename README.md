@@ -34,7 +34,7 @@ My hobbies are playing badminton,programming,content creating and learning new s
 
 <details>
  <summary>:zap: GitHub Activity Graph</summary>
- <img align="left" alt="Ayush's Activity graph" src="hhttps://activity-graph.herokuapp.com/graph?username=ayush-1306" />
+ <img align="left" alt="Ayush's Activity graph" src="https://activity-graph.herokuapp.com/graph?username=ayush-1306" />
 </details>
 
 <details>
