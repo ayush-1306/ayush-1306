@@ -29,18 +29,20 @@ My hobbies are playing badminton,programming,content creating and learning new s
 
 <details>
   <summary>:zap: Github Stats</summary>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-1306&show_icons=true)  
+ <img align="left" alt="Ayush's Activity graph" src="https://github-readme-stats.vercel.app/api?username=ayush-1306&show_icons=true" />
 </details>
+
 <details>
  <summary>:zap: GitHub Activity Graph</summary>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayush-1306)  
+ <img align="left" alt="Ayush's Activity graph" src="hhttps://activity-graph.herokuapp.com/graph?username=ayush-1306" />
 </details>
+
 <details>
  <summary>:zap: Github Streak stats</summary>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayush-1306)  
+ <img align="left" alt="Ayush's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-1306" />
 </details>
+
 <details>
  <summary:zap: Profile views</summary>
-[![Profile views](https://gpvc.arturio.dev/ayush-1306)  
- <img align="left" alt="Anna's GitHub Top Languages" src="https://gpvc.arturio.dev/ayush-1306" />
+ <img align="left" alt="Ayush's Profile Views" src="https://gpvc.arturio.dev/ayush-1306" />
 </details>
