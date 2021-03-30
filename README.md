@@ -21,15 +21,24 @@ My hobbies are playing badminton,programming,content creating and learning new s
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Most Used Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1306)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+<details>
+  <summary>:zap: Github Stats</summary>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-1306&show_icons=true)  
-
+</details>
+<details>
+ <summary>:zap: GitHub Activity Graph</summary>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayush-1306)  
-
+</details>
+<details>
+ <summary>:zap: Github Streak stats</summary>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayush-1306)  
-
+</details>
+<details>
+ <summary:zap: Profile views</summary>
 ![Profile views](https://gpvc.arturio.dev/ayush-1306)  
+</details>
