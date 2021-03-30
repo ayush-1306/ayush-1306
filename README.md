@@ -4,6 +4,7 @@ I'm a graduation student.I am pursuing Bachelor of Technology in Computer Scienc
 My hobbies are playing badminton,programming,content creating and learning new stuff about technology.My aim is to be the best in whatever i do.
 
 ⚡ Fun fact: I love to eat food.😅🤭
+ <img align="right" alt="GIF" src="coder.gif" width="500" height="320" />
 
 ## Languages i know:
 <img src='Pictures/c.png' alt='C' height='30'> <img src='Pictures/python.jfif' alt='Python' height='30'> <img src='Pictures/java.jfif' alt='Java' height='30'> <img src='Pictures/sql.png' alt='SQL' height='30'> <img src='Pictures/html.png' alt='HTML' height='30'>
