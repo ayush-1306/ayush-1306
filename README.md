@@ -5,8 +5,9 @@
 - 🤘🏻My hobbies are playing badminton,programming,content creating and learning new stuff about technology.
 - 👨🏻‍💻I generally code in python and i am also familiar with C and java.
 
-⚡ Fun fact: I love to eat food.😅🤭
- <img align="right" alt="GIF" src="coder.gif" width="500" height="200" />
+⚡ Fun fact: I love to eat food.😅🤭  
+
+ <img align="right" alt="GIF" src="coder.gif" width="500" height="320" />
  
  ## Feel free to talk to me:😄
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayush-1306)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayush-sharma-9a23911bb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/ayush13_06?igshid=1l4q32jjg3fxr/)    
@@ -21,14 +22,12 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 
-<br />
-<br />  
+<br>
+<br>  
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1306)](https://github.com/anuraghazra/github-readme-stats)
-
 </details>
 
 <details>
