@@ -1,9 +1,9 @@
 ### Hi there,I am Ayush 👋
 
-- I'm a graduation student.I am pursuing Bachelor of Technology in Computer Science and Engineering.👨🏻‍🎓  
-- My current field of learning is Data Science.  
-- My hobbies are playing badminton,programming,content creating and learning new stuff about technology.
-- I generally code in python and i am also familiar with C and java.
+- 👨🏻‍🎓I'm a graduation student.I am pursuing Bachelor of Technology in Computer Science and Engineering.  
+- 😄My current field of learning is Data Science.  
+- 🤘🏻My hobbies are playing badminton,programming,content creating and learning new stuff about technology.
+- 👨🏻‍💻I generally code in python and i am also familiar with C and java.
 
 ⚡ Fun fact: I love to eat food.😅🤭
  <img align="right" alt="GIF" src="coder.gif" width="500" height="320" />
