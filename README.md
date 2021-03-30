@@ -26,6 +26,7 @@ My hobbies are playing badminton,programming,content creating and learning new s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1306)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
 <details>
   <summary>:zap: Github Stats</summary>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-1306&show_icons=true)  
@@ -41,4 +42,5 @@ My hobbies are playing badminton,programming,content creating and learning new s
 <details>
  <summary:zap: Profile views</summary>
 [![Profile views](https://gpvc.arturio.dev/ayush-1306)  
+ <img align="left" alt="Anna's GitHub Top Languages" src="https://gpvc.arturio.dev/ayush-1306" />
 </details>
