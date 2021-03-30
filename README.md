@@ -40,5 +40,5 @@ My hobbies are playing badminton,programming,content creating and learning new s
 </details>
 <details>
  <summary:zap: Profile views</summary>
-![Profile views](https://gpvc.arturio.dev/ayush-1306)  
+[![Profile views](https://gpvc.arturio.dev/ayush-1306)  
 </details>
