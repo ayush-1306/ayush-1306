@@ -1,7 +1,7 @@
 ### Hi there,I am Ayush 👋
 
 I'm a graduation student.I am pursuing Bachelor of Technology in Computer Science and Engineering.My current field of learning is Data Science.
-My hobbies are playing badminton,programming,content creating and learning new stuff about technology.My aim is to be the best in whatever i do.
+My hobbies are playing badminton,programming,content creating and learning new stuff about technology.I generally code in python and i am also familiar with C and java.
 
 ⚡ Fun fact: I love to eat food.😅🤭
  <img align="right" alt="GIF" src="coder.gif" width="500" height="320" />
@@ -15,7 +15,9 @@ My hobbies are playing badminton,programming,content creating and learning new s
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
 <br />
 <br />
 
