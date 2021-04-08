@@ -27,7 +27,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1306)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Most Used Languages" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1306)](https://github.com/anuraghazra/github-readme-stats"
 </details>
 
 <details>
