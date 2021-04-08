@@ -28,12 +28,12 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-<alt="Most Used Languages" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1306"
+  <alt="Most Used Languages" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1306"
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
- <img align="left" alt="Ayush's Activity graph" src="https://github-readme-stats.vercel.app/api?username=ayush-1306&show_icons=true" />
+  <img align="left" alt="Ayush's Activity graph" src="https://github-readme-stats.vercel.app/api?username=ayush-1306&show_icons=true" />
 </details>
 
 <details>
