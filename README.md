@@ -1,6 +1,6 @@
 ### Hi there,I am Ayush 👋
 
-- 👨🏻‍🎓I'm a graduation student.I am pursuing Bachelor of Technology in Computer Science and Engineering.  
+- 👨🏻‍🎓I'm a Data Enthusiast, I had worked for Wipro for 2 years 6 months.  
 - 😄My current field of learning is Data Science.  
 - 👨🏻‍💻I generally code in python and i am also familiar with C and java.
 
